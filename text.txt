@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 1+9=10
 2+8=10
 
 wbs wbs wbs wbs wbs wbs wbs wbs wbs
+=======
+1+9=12
+2+8=12
+
+
+bbb bbb bbb bbb bbb bbb bbb bbb 12
+>>>>>>> bbb
